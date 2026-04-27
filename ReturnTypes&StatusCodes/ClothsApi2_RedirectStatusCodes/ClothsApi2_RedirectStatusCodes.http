@@ -1,0 +1,6 @@
+@ClothsApi2_RedirectStatusCodes_HostAddress = http://localhost:5160
+
+GET {{ClothsApi2_RedirectStatusCodes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
