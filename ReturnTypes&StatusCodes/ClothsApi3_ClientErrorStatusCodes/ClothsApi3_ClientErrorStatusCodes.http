@@ -1,0 +1,6 @@
+@ClothsApi3_ClientErrorStatusCodes_HostAddress = http://localhost:5185
+
+GET {{ClothsApi3_ClientErrorStatusCodes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
