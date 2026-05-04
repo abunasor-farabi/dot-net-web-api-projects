@@ -1,0 +1,6 @@
+@ClothsApi4_ServerErrorStatusCodes_HostAddress = http://localhost:5169
+
+GET {{ClothsApi4_ServerErrorStatusCodes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
